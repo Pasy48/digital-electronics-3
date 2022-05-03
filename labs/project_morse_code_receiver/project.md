@@ -26,7 +26,7 @@ Link to your GitHub project folder:
 
 As main objective of our project  we see learning how direct hardware programming works.
 
-In this exact project  is our objective to complete "Morse code reciever" an we decided to  devide this into smaller objectives:
+In this exact project  is our objective to complete "Morse code reciever" and we decided to  devide this into smaller objectives:
 1. Create character map for seven segment display that will work for all  characters and numbers.
 
 ![your figure](https://github.com/Hans22301/digital-electronics-1/blob/main/labs/project_morse_code_receiver/images/mapa_znaku.png)
